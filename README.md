@@ -1,6 +1,6 @@
 # ytproxy.py
 
-Youtube streaming proxy
+Simple Youtube streaming proxy
 
 Usage:
 

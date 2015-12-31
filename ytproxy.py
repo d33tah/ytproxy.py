@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-Youtube streaming proxy
+Simple Youtube streaming proxy
 
 Usage:
 
